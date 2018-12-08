@@ -4,4 +4,4 @@ A microservice which converts natural date strings to Unix timestamps and vice-v
 
 Test it at <a href="https://a-timestamp-microservice.glitch.me/">https://a-timestamp-microservice.glitch.me</a>
 
-<img src="https://cdn.rawgit.com/standard/standard/master/badge.svg?1503150814326" alt="JSStandard Badge" height="56" width="171">
+<img src="https://cdn.jsdelivr.net/gh/standard/standard/badge.svg?1503150814326" alt="JSStandard Badge" height="56" width="171">
